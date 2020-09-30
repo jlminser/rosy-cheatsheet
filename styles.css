@@ -1,0 +1,31 @@
+body {
+  background-color: FloralWhite;
+  font-family: "Georgia";
+}
+.title {
+  color: DarkSlateGray;
+  font-family: "Futura";
+  text-align: center;
+}
+.subheading {
+  color: DarkSlateGray;
+  background-color: RosyBrown;
+  border: solid;
+  text-align: center;
+}
+.more_information {
+  color: DarkSlateGray;
+}
+table {
+  color: DarkSlateGray;
+  border: solid;
+  opacity: .9;
+}
+td,
+th {
+  border: solid;
+}
+.code {
+  font-family: monospace;
+  background-color: Gainsboro;
+}
